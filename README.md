@@ -1,4 +1,4 @@
-# Tres-en-raya
+# Tres en raya
 
 Juego online de tres en raya. 
 
